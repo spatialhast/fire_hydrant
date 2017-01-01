@@ -1,0 +1,2337 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <Style id="placemark-blue">
+    <IconStyle>
+      <Icon>
+        <href>http://mapswith.me/placemarks/placemark-blue.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-brown">
+    <IconStyle>
+      <Icon>
+        <href>http://mapswith.me/placemarks/placemark-brown.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-green">
+    <IconStyle>
+      <Icon>
+        <href>http://mapswith.me/placemarks/placemark-green.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-orange">
+    <IconStyle>
+      <Icon>
+        <href>http://mapswith.me/placemarks/placemark-orange.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-pink">
+    <IconStyle>
+      <Icon>
+        <href>http://mapswith.me/placemarks/placemark-pink.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-purple">
+    <IconStyle>
+      <Icon>
+        <href>http://mapswith.me/placemarks/placemark-purple.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-red">
+    <IconStyle>
+      <Icon>
+        <href>http://mapswith.me/placemarks/placemark-red.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-yellow">
+    <IconStyle>
+      <Icon>
+        <href>http://mapswith.me/placemarks/placemark-yellow.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <name>UA-63-1-7</name>
+  <visibility>1</visibility>
+  <Placemark>
+    <name>Т-300</name>
+    <description>Газон | - | проспект Ново-Баварський, 1</description>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>36.1810137,49.9468299</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Т-300</name>
+    <description>Газон | - | проспект Ново-Баварський, 3</description>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>36.1805441,49.9469239</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Т-300</name>
+    <description>Газон | - | проспект Ново-Баварський, 5</description>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>36.1797094,49.947132</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Т-300</name>
+    <description>Перекресток | - | проспект Ново-Баварський, 9</description>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>36.1786712,49.9474039</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Т-300</name>
+    <description>Газон | - | проспект Ново-Баварський, 15</description>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>36.1774974,49.9476825</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Т-300</name>
+    <description>Газон | - | проспект Ново-Баварський, 21</description>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>36.1765949,49.9479142</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Т-300</name>
+    <description>Газон | - | проспект Ново-Баварський, 23</description>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>36.1758541,49.9481089</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Т-300</name>
+    <description>Газон | - | проспект Ново-Баварський, 27</description>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>36.1745551,49.9484362</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Т-300</name>
+    <description>Газон | - | проспект Ново-Баварський, б/н</description>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>36.1741169,49.9485419</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>К-150</name>
+    <description>Тротуар | - | проспект Ново-Баварський, 34</description>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>36.1728465,49.9489011</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>К-150</name>
+    <description>Газон | - | проспект Ново-Баварський, 39</description>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>36.1718788,49.9489981</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>К-150</name>
+    <description>Газон | - | проспект Ново-Баварський, 46</description>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>36.1706554,49.9492465</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>К-300</name>
+    <description>Газон | - | проспект Ново-Баварський, 45</description>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>36.1700268,49.9493086</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>К-300</name>
+    <description>Газон | - | проспект Ново-Баварський, 51</description>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>36.1693329,49.9494168</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>К-150</name>
+    <description>Тротуар | - | проспект Ново-Баварський, 60</description>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>36.1678239,49.9496896</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>К-150</name>
+    <description>Тротуар | - | проспект Ново-Баварський, 80</description>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>36.162963,49.9498088</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>К-150</name>
+    <description>Тротуар | - | проспект Ново-Баварський, 68</description>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>36.1665784,49.9498893</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>К-150</name>
+    <description>Проезжая часть | - | проспект Ново-Баварський, 77</description>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>36.1644968,49.9499699</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Т-150</name>
+    <description>Газон | - | Китаєнко, 4</description>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>36.1652324,49.9515812</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>К-150</name>
+    <description>Тротуар | - | Свинаренко, 7</description>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>36.1634925,49.9517691</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Т-75</name>
+    <description>Тротуар | - | вулиця Третя, 37</description>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>36.1616562,49.9525345</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>К-150</name>
+    <description>Проезжая часть | - | Свинаренко, 1</description>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>36.1644877,49.9526755</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Т-300</name>
+    <description>Тротуар | - | вулиця Костянтина Калініна, 3</description>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>36.1667469,49.9529243</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>К-150</name>
+    <description>Тротуар | - | вулиця Костянтина Калініна, 19</description>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>36.1642177,49.9533871</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Т-75</name>
+    <description>Тротуар | - | вулиця Третя, 1</description>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>36.1626004,49.9534643</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>К-300</name>
+    <description>У дворі | - | вулиця Костянтина Калініна, 2</description>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>36.1689023,49.9539828</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Т-75</name>
+    <description>Тротуар | - | Третя, 12</description>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>36.1618237,49.953812</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Т-150</name>
+    <description>Проезжая часть | - | вулиця Катаєва, 16</description>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>36.1370438,49.9483156</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Т-150</name>
+    <description>Проезжая часть | - | вулиця Катаєва, 7</description>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>36.1379724,49.9503133</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Т-150</name>
+    <description>Проезжая часть | - | провулок Марнариновий, 15</description>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>36.1366848,49.9503431</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Т-150</name>
+    <description>Газон | - | провулок Марнариновий, 9</description>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>36.1362267,49.9508092</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Т-150</name>
+    <description>Проезжая часть | - | вулиця Катаєва, 11</description>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>36.1381828,49.9509167</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Т-150</name>
+    <description>Проезжая часть | - | провулок Марнариновий, 1</description>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>36.13536,49.9517332</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Т-150</name>
+    <description>Газон | - | провулок Марнариновий, 1</description>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>36.1349453,49.9521674</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Т-300</name>
+    <description>Газон | - | вулиця Герцена, 20</description>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>36.1817103,49.9479515</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Т-300</name>
+    <description>Проезжая часть | - | вулиця Некрасова, 14</description>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>36.1833098,49.9493353</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Т-300</name>
+    <description>Проезжая часть | - | вулиця Некрасова, 19</description>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>36.1815704,49.9501566</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Т-150</name>
+    <description>Тротуар | - | вулиця Врубеля, 97</description>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>36.1570668,49.9367985</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Т-150</name>
+    <description>Тротуар | - | вулиця Врубеля, 93</description>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>36.1570349,49.9371361</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Т-200</name>
+    <description>Тротуар | - | вулиця Врубеля, 42 б</description>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>36.1573875,49.9418963</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Т-200</name>
+    <description>Тротуар | - | вулиця Врубеля, 42 б</description>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>36.1576266,49.9437052</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Т-200</name>
+    <description>Газон | - | вулиця Тимірязева, 1</description>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>36.16696,49.943963</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Т-200</name>
+    <description>Газон | - | вулиця Тимірязева, 5</description>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>36.1655686,49.9440487</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Т-200</name>
+    <description>Газон | - | вулиця Тимірязева, 13</description>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>36.1629913,49.9441833</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Т-200</name>
+    <description>Газон | - | вулиця Тимірязева, 19</description>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>36.1620353,49.9442086</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Т-300</name>
+    <description>Тротуар | - | вулиця Тимірязева, 28</description>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>36.1602793,49.9443078</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Т-300</name>
+    <description>Газон | - | вулиця Тимірязева, 20</description>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>36.1590538,49.9443694</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Т-300</name>
+    <description>Тротуар | - | вулиця Врубеля, 42-б</description>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>36.157718,49.9444461</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Т-300</name>
+    <description>Тротуар | - | вулиця Островського, 37</description>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>36.1550895,49.9445705</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Т-300</name>
+    <description>Тротуар | - | вулиця Тимірязева, 28</description>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>36.1520397,49.9447383</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Т-300</name>
+    <description>Тротуар | - | вулиця Тимірязева, 45</description>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>36.1477992,49.9450519</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>К-300</name>
+    <description>Проїжджа частина | - | вулиця Тимірязева, 45/3</description>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>36.1475478,49.9451403</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>К-300</name>
+    <description>Тротуар | - | вулиця Тимірязева, 45/2</description>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>36.1467612,49.9451886</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Т-150</name>
+    <description>Тротуар | - | вулиця Тимірязева, 45/1</description>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>36.1455327,49.9454376</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Т-300</name>
+    <description>Тротуар | - | вулиця Тимірязева, 51</description>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>36.1449451,49.9455206</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Т-300</name>
+    <description>Тротуар | - | вулиця Тимірязева, 53</description>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>36.1445532,49.9455726</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Т-300</name>
+    <description>Газон, вход в церковь. | - | вулиця Тимірязева, 61</description>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>36.1423227,49.945982</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>К-150</name>
+    <description>Тротуар | - | проспект Ново-Баварський, 89</description>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>36.1604444,49.9495801</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>К-200</name>
+    <description>Проїжджа частина | - | проспект Ново-Баварський, 100</description>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>36.1506032,49.9507986</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>К-250</name>
+    <description>Проїжджа частина | - | проспект Ново-Баварський, 117</description>
+    <styleUrl>#placemark-brown</styleUrl>
+    <Point><coordinates>36.14325,49.9509996</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>К-300</name>
+    <description>Газон | - | проспект Ново-Баварський, 119/2</description>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>36.1408497,49.9513924</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Т-250</name>
+    <description>Газон | - | проспект Ново-Баварський, 119/1</description>
+    <styleUrl>#placemark-brown</styleUrl>
+    <Point><coordinates>36.1407348,49.951486</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Т-200</name>
+    <description>Тротуар | - | проспект Ново-Баварський, 121/2</description>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>36.1395099,49.9515446</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Т-200</name>
+    <description>Проїжджа частина | - | проспект Ново-Баварський, 118-А</description>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>36.1435765,49.9517792</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Т-250</name>
+    <description>Проїжджа частина | - | проспект Ново-Баварський, 127</description>
+    <styleUrl>#placemark-brown</styleUrl>
+    <Point><coordinates>36.1371976,49.951919</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Т-250</name>
+    <description>Обочина | - | проспект Ново-Баварський, 131-А</description>
+    <styleUrl>#placemark-brown</styleUrl>
+    <Point><coordinates>36.1360314,49.9521054</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Т-300</name>
+    <description>Тротуар | - | проспект Ново-Баварський, Парк-1</description>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>36.1395486,49.9522789</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>К-150</name>
+    <description>Тротуар | - | проспект Ново-Баварський, 120</description>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>36.1396447,49.9523335</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Т-300</name>
+    <description>Тротуар | - | проспект Ново-Баварський, Парк-2</description>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>36.1375247,49.9525946</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Т-250</name>
+    <description>Проїжджа частина | - | проспект Ново-Баварський, 143</description>
+    <styleUrl>#placemark-brown</styleUrl>
+    <Point><coordinates>36.1322709,49.952634</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Т-300</name>
+    <description>Тротуар | - | проспект Ново-Баварський, Парк-3</description>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>36.1360564,49.9528236</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Т-300</name>
+    <description>Тротуар | - | проспект Ново-Баварський, Парк-5</description>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>36.1312333,49.9535413</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Т-200</name>
+    <description>газон | - | провулок Глазунова, 42</description>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>36.1505551,49.9395564</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Т-200</name>
+    <description>газон | - | провулок Глазунова, 34</description>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>36.1506364,49.9403512</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Т-200</name>
+    <description>газон | - | провулок Глазунова, 16/1</description>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>36.1507216,49.9410787</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Т-200</name>
+    <description>газон | - | провулок Глазунова, 16</description>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>36.1509055,49.942439</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Т-150</name>
+    <description>газон | - | провулок Глазунова, 12</description>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>36.1510013,49.9432288</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Т-200</name>
+    <description>газон | - | вулиця Конопляна, 11</description>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>36.1341343,49.9494174</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>К-150</name>
+    <description>Проїжджа частина | no | вулиця Урожайна, 45</description>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>36.1452669,49.9465066</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>К-150</name>
+    <description>Проїжджа частина | no | вулиця Урожайна, 58</description>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>36.1450519,49.9465728</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>К-100</name>
+    <description>Газон | yes | В`зд Даргомижського, 4</description>
+    <styleUrl>#placemark-blue</styleUrl>
+    <Point><coordinates>36.1494045,49.9466007</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>К-150</name>
+    <description>Проїжджа частина | - | вулиця Урожайна, 41/2</description>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>36.1459849,49.9467744</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>К-150</name>
+    <description>Проїжджа частина | - | вулиця Урожайна, 17</description>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>36.148052,49.9476028</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Т-150</name>
+    <description>Газон | no | провулок Леднянський, 36</description>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>36.1512782,49.9356483</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Т-150</name>
+    <description>Газон | no | провулок Леднянський, 18</description>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>36.1498765,49.937201</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>К-150</name>
+    <description>Газон | yes | вулиця Новобакинська, 2</description>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>36.1477947,49.938669</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Т-150</name>
+    <description>Газон | no | провулок Леднянський, 1</description>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>36.1486189,49.9387227</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>К-300</name>
+    <description>Проїжджа частина | yes | вулиця Белинського, 9</description>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>36.1554673,49.9392893</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>К-300</name>
+    <description>Газон | yes | вулиця Белинського, 41</description>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>36.1508049,49.9393055</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>К-300</name>
+    <description>Проїжджа частина | yes | вулиця Белинського, 25</description>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>36.1528903,49.9393099</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>К-150</name>
+    <description>Газон | no | провулок Белинського, 22</description>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>36.1557943,49.9396131</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>К-150</name>
+    <description>Газон | yes | провулок Белинського, 13</description>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>36.1559498,49.9405034</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>К-150</name>
+    <description>Газон | yes | провулок Белинського, 1</description>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>36.1561396,49.9418632</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Т-300</name>
+    <description>Газон | yes | провулок Підсонячний, 2</description>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>36.1349804,49.9461107</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>К-100</name>
+    <description>Газон | no | В`зд Даргомижського, 10</description>
+    <styleUrl>#placemark-blue</styleUrl>
+    <Point><coordinates>36.1479742,49.9466162</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Т-100</name>
+    <description>Газон | yes | вулиця Підсонячна, 54</description>
+    <styleUrl>#placemark-blue</styleUrl>
+    <Point><coordinates>36.1325892,49.9472757</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Т-150</name>
+    <description>Газон | no | вулиця Катаєва, 28</description>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>36.1364993,49.9470749</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Т-150</name>
+    <description>Газон | yes | вулиця Архангельська, 22</description>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>36.1406689,49.9472412</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Т-150</name>
+    <description>Газон дом №6 | yes | вулиця Архангельська, 6</description>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>36.1429109,49.9481961</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Т-200</name>
+    <description>Газон | no | вулиця Архангельська, 22</description>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>36.1351319,49.948408</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Т-200</name>
+    <description>Газон | yes | вулиця Джутова, 3</description>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>36.1362935,49.9487641</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Т-150</name>
+    <description>дом №7 | yes | вулиця Архангельська, 6</description>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>36.1454377,49.9492636</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Т-200</name>
+    <description>Газон | yes | провулок Джутовий, 23</description>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>36.1349764,49.9503413</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Т-150</name>
+    <description>газон | yes | вулиця Марії Кисляк, 58</description>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>36.151468,49.9318808</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Т-100</name>
+    <description>газон | yes | провулок Новопригородний, 21</description>
+    <styleUrl>#placemark-blue</styleUrl>
+    <Point><coordinates>36.1476151,49.9327271</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Т-100</name>
+    <description>газон | yes | провулок Новопригородний, 9</description>
+    <styleUrl>#placemark-blue</styleUrl>
+    <Point><coordinates>36.1489916,49.9328846</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Т-100</name>
+    <description>газон | yes | вулиця Петра Набоченко, 43</description>
+    <styleUrl>#placemark-blue</styleUrl>
+    <Point><coordinates>36.1460259,49.9342343</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Т-100</name>
+    <description>дорога | yes | вулиця Петра Набоченко, 54</description>
+    <styleUrl>#placemark-blue</styleUrl>
+    <Point><coordinates>36.1469097,49.9342828</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Т-100</name>
+    <description>дорога (магазин) | yes | вулиця Петра Набоченко, 66/1</description>
+    <styleUrl>#placemark-blue</styleUrl>
+    <Point><coordinates>36.1477631,49.9360615</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Т-100</name>
+    <description>газон | yes | вулиця Петра Набоченко, 74</description>
+    <styleUrl>#placemark-blue</styleUrl>
+    <Point><coordinates>36.1470246,49.937105</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Т-100</name>
+    <description>газон | yes | вулиця Петра Набоченко, 94</description>
+    <styleUrl>#placemark-blue</styleUrl>
+    <Point><coordinates>36.1457589,49.938573</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Т-400</name>
+    <description>газон | no | вулиця Бакинська, 58</description>
+    <styleUrl>#placemark-orange</styleUrl>
+    <Point><coordinates>36.1496204,49.9389218</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Т-100</name>
+    <description>газон | yes | вулиця Петра Набоченко, 104</description>
+    <styleUrl>#placemark-blue</styleUrl>
+    <Point><coordinates>36.1451427,49.9392558</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Т-100</name>
+    <description>дорога | no | вулиця Петра Набоченко, 114</description>
+    <styleUrl>#placemark-blue</styleUrl>
+    <Point><coordinates>36.1445322,49.9399678</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>К-400</name>
+    <description>Перехрестя | yes | вулиця Рєпіна, 47</description>
+    <styleUrl>#placemark-orange</styleUrl>
+    <Point><coordinates>36.1436501,49.9400174</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Т-150</name>
+    <description>газон | yes | провулок Танєєва, 17</description>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>36.1532882,49.9401418</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Т-150</name>
+    <description>газон | yes | вулиця Маковського, 3/16</description>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>36.1360179,49.9403342</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>К-400</name>
+    <description>газон | no | вулиця Рєпіна, 39</description>
+    <styleUrl>#placemark-orange</styleUrl>
+    <Point><coordinates>36.1439868,49.9409008</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Т-150</name>
+    <description>газон | yes | провулок Танєєва, 2</description>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>36.1534094,49.9410012</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Т-150</name>
+    <description>Газон | no | провулок Ушинського, 70</description>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>36.1344745,49.9410726</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Т-300</name>
+    <description>газон | yes | вулиця Маковського, 33-а</description>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>36.1417128,49.9412164</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Т-150</name>
+    <description>Газон | no | провулок Ушинського, 64</description>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>36.1344265,49.9415023</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Т-150</name>
+    <description>газон | no | провулок Танєєва, 2</description>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>36.1534116,49.941787</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Т-150</name>
+    <description>Газон | no | провулок Ушинського, 56</description>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>36.1340446,49.9423293</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Т-150</name>
+    <description>газон | no | вулиця Маковського, 25</description>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>36.1421506,49.9425364</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>К-400</name>
+    <description>газон | no | вулиця Рєпіна, 27</description>
+    <styleUrl>#placemark-orange</styleUrl>
+    <Point><coordinates>36.1445562,49.9425931</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Т-150</name>
+    <description>Газон | no | провулок Ушинського, 50</description>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>36.1331185,49.9428797</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Т-150</name>
+    <description>Газон | yes | вулиця Ушинського, 40</description>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>36.1352999,49.9429709</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Т-150</name>
+    <description>газон | no | вулиця Маковського, 15</description>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>36.1425542,49.9435135</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>К-400</name>
+    <description>газон | yes | вулиця Рєпіна, 13</description>
+    <styleUrl>#placemark-orange</styleUrl>
+    <Point><coordinates>36.1450409,49.9439329</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Т-150</name>
+    <description>Газон | yes | провулок Ушинського, 95</description>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>36.1339897,49.944257</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Т-150</name>
+    <description>Газон | no | провулок Ушинського, 28</description>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>36.1326109,49.9443394</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Т-150</name>
+    <description>Газон | yes | провулок Ушинського, 77</description>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>36.1328944,49.9453813</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Т-100</name>
+    <description>угол дома №8-а | yes | вулиця Колонна, 8-а</description>
+    <styleUrl>#placemark-blue</styleUrl>
+    <Point><coordinates>36.1463329,49.9483245</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Т-100</name>
+    <description>угол дома №8 | yes | вулиця Колонна, 8</description>
+    <styleUrl>#placemark-blue</styleUrl>
+    <Point><coordinates>36.1471835,49.9486423</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Т-100</name>
+    <description>Двор дома #6 | yes | вулиця Колонна, 6</description>
+    <styleUrl>#placemark-blue</styleUrl>
+    <Point><coordinates>36.1480295,49.9492514</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Т-125</name>
+    <description>Газон | no | вулиця Колонна, 2</description>
+    <styleUrl>#placemark-purple</styleUrl>
+    <Point><coordinates>36.1501286,49.9497547</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Т-150</name>
+    <description>газон | yes | провулок Архангельський, 1</description>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>36.1457389,49.9501788</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Т-300</name>
+    <description>газон | yes | вулиця Крилова, 113</description>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>36.1581815,49.9380844</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Т-100</name>
+    <description>газон | no | провулок Крилова, 32</description>
+    <styleUrl>#placemark-blue</styleUrl>
+    <Point><coordinates>36.1525747,49.9382728</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Т-300</name>
+    <description>газон | yes | вулиця Крилова, 87</description>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>36.1612467,49.9391653</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>К-300</name>
+    <description>газон | yes | вулиця Ломоносова, 99</description>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>36.1586903,49.9398077</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Т-300</name>
+    <description>газон | yes | вулиця Крилова, 81</description>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>36.1632498,49.9399608</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>К-300</name>
+    <description>газон | yes | вулиця Ломоносова, 91</description>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>36.1602498,49.940417</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>К-300</name>
+    <description>газон | yes | вулиця Ломоносова, 85</description>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>36.160762,49.9408025</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Т-150</name>
+    <description>газон | yes | вулиця Крилова, 81</description>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>36.1640764,49.9411381</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Т-300</name>
+    <description>газон | yes | вулиця Крилова, 75</description>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>36.1650791,49.9416149</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Т-400</name>
+    <description>газон | yes | вулиця Грибоїдова, 35</description>
+    <styleUrl>#placemark-orange</styleUrl>
+    <Point><coordinates>36.1600737,49.9416502</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>К-300</name>
+    <description>дорога | no | Ломоносова, 73</description>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>36.1620242,49.9417576</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Т-400</name>
+    <description>газон | yes | вулиця Грибоїдова, 23</description>
+    <styleUrl>#placemark-orange</styleUrl>
+    <Point><coordinates>36.1602486,49.9434543</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Т-300</name>
+    <description>газон | yes | Вулиця Крилова, 59</description>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>36.1686874,49.944274</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>К-300</name>
+    <description>газон | no | вулиця Ломоносова, 43</description>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>36.1683444,49.946387</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>К-400</name>
+    <description>газон | no | вулиця Грибоїдова, 11-б</description>
+    <styleUrl>#placemark-orange</styleUrl>
+    <Point><coordinates>36.1606191,49.946696</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>К-300</name>
+    <description>газон | no | вулиця Ломоносова, 18</description>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>36.1688429,49.9467622</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Т-300</name>
+    <description>газон | no | вулиця Крилова, 56</description>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>36.1724694,49.9474832</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>К-300</name>
+    <description>газон | no | вулиця Ломоносова, 17</description>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>36.1702628,49.9478356</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>К-400</name>
+    <description>газон | no | вулиця Грибоїдова, 15</description>
+    <styleUrl>#placemark-orange</styleUrl>
+    <Point><coordinates>36.1605985,49.9479335</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Т-300</name>
+    <description>газон | no | вулиця Крилова, 37</description>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>36.1733589,49.9479541</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>К-100</name>
+    <description>Обочина | - | провулок Вільхівський, 1</description>
+    <styleUrl>#placemark-blue</styleUrl>
+    <Point><coordinates>36.1859846,49.9346048</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>К-100</name>
+    <description>В заглибленні забору на газоні | - | Коксова, 39</description>
+    <styleUrl>#placemark-blue</styleUrl>
+    <Point><coordinates>36.1882212,49.93538</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>К-100</name>
+    <description>Дорога | - | Мінеральна, 2</description>
+    <styleUrl>#placemark-blue</styleUrl>
+    <Point><coordinates>36.1855272,49.9357676</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>К-100</name>
+    <description>Дорога | - | провулок 2-й Райгородський, 2</description>
+    <styleUrl>#placemark-blue</styleUrl>
+    <Point><coordinates>36.1856198,49.9364161</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>К-100</name>
+    <description>Газон | - | Коксова, 45</description>
+    <styleUrl>#placemark-blue</styleUrl>
+    <Point><coordinates>36.1875958,49.9366882</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>К-100</name>
+    <description>Дорога | - | Коксова, 47</description>
+    <styleUrl>#placemark-blue</styleUrl>
+    <Point><coordinates>36.1873439,49.937455</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>К-100</name>
+    <description>Дорога | - | Коксова, 49</description>
+    <styleUrl>#placemark-blue</styleUrl>
+    <Point><coordinates>36.1871673,49.9379879</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>К-150</name>
+    <description>Тротуар | no | Даргомижського, 70</description>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>36.1493763,49.9401396</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>К-150</name>
+    <description>газон | no | Даргомижського, 62</description>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>36.1494627,49.9407294</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>К-300</name>
+    <description>дорога | no | Островського, 58</description>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>36.1546327,49.9407983</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>К-300</name>
+    <description>Газон | yes | Островського, 50</description>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>36.1546459,49.9414328</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>К-300</name>
+    <description>Вход в санаторий для детей | yes | Островського, 37/2</description>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>36.1549088,49.9426124</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>К-150</name>
+    <description>Тротуар | no | Даргомижського, 44</description>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>36.1496542,49.9426801</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Т-125</name>
+    <description>газон | yes | Перовської, 43</description>
+    <styleUrl>#placemark-purple</styleUrl>
+    <Point><coordinates>36.1678352,49.9434544</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Т-125</name>
+    <description>газон | yes | Перовської, 41</description>
+    <styleUrl>#placemark-purple</styleUrl>
+    <Point><coordinates>36.1685112,49.9434544</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>К-300</name>
+    <description>Проезжая часть | yes | Островського, 2</description>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>36.1549708,49.9435104</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Т-75</name>
+    <description>газон | yes | Перовської, 17</description>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>36.1768849,49.9436738</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>К-150</name>
+    <description>газон | no | Конотопська, 74</description>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>36.1727687,49.9437017</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>К-150</name>
+    <description>газон | yes | Даргомижського, 34</description>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>36.1497519,49.9437605</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>К-300</name>
+    <description>В`їзд у гараж | yes | Островського, 28</description>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>36.1551511,49.9454078</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>К-150</name>
+    <description>Тротуар | yes | Даргомижського, 25-а</description>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>36.1501988,49.9456192</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>К-75</name>
+    <description>137 школа вхід | yes | Конотопська, 48</description>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>36.1736083,49.9459692</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Т-75</name>
+    <description>Газон | - | Кібальчича, 29, 29</description>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>36.1889102,49.9461127</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>К-300</name>
+    <description>Газон | yes | Островського, 18</description>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>36.1552525,49.9463039</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>К-150</name>
+    <description>Тротуар | yes | Даргомижського, 23</description>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>36.1502157,49.9465655</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>К-300</name>
+    <description>газон | yes | проспект Дзюби, 31</description>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>36.1447658,49.9468718</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>К-300</name>
+    <description>газон | no | Островського, 8</description>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>36.1553586,49.9475141</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>К-150</name>
+    <description>Тротуар | yes | Даргомижського, 11</description>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>36.1502965,49.9479045</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Т-200</name>
+    <description>газон | yes | проспект Дзюби, 11</description>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>36.1433067,49.9483667</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>К-300</name>
+    <description>Тротуар | yes | Островського, 2</description>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>36.1554365,49.9483727</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Т-100</name>
+    <description>газон | yes | Щигровської, 9</description>
+    <styleUrl>#placemark-blue</styleUrl>
+    <Point><coordinates>36.1797027,49.9484815</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>К-150</name>
+    <description>Тротуар | yes | Даргомижського, 9</description>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>36.1503453,49.9486755</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Т-150</name>
+    <description>Тротуар | yes | Карамзіна, 11</description>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>36.1544468,49.9487588</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>К-150</name>
+    <description>дорога | yes | Даргомижського, 3</description>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>36.1503416,49.9490066</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>К-150</name>
+    <description>Тротуар | - | проспект Ново-Баварський, 86</description>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>36.1613728,49.9496628</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Т-200</name>
+    <description>газон | no | проспект Дзюби, 3/2</description>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>36.1420728,49.9497407</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Т-200</name>
+    <description>газон | yes | проспект Дзюби, 1/19</description>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>36.1416146,49.9501346</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>К-300</name>
+    <description>Дорога | - | Клавдії Шульженко, 42</description>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>36.1569321,49.9506147</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Т-200</name>
+    <description>газон напротив магазина "Камаз" | yes | проспект Дзюби, 2</description>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>36.1408033,49.9510457</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Т-150</name>
+    <description>Дорога | yes | Китаєнко, 5-в</description>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>36.1656477,49.9510589</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>К-150</name>
+    <description>Тротуар | - | Свинаренко, 14</description>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>36.161879,49.9512132</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>К-150</name>
+    <description>Дорога | - | Клавдії Шульженко, 32</description>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>36.1575573,49.9512711</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>К-150</name>
+    <description>Тротуар | - | Свинаренко, Б/н</description>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>36.1610589,49.9513468</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>К-150</name>
+    <description>Тротуар | - | Свинаренко, 14</description>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>36.1614436,49.9514119</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>К-150</name>
+    <description>Тротуар | - | Свинаренко, 12-а</description>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>36.1612158,49.9515618</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>К-75</name>
+    <description>газон | yes | Конотопська, 1</description>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>36.1782073,49.9515898</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Т-150</name>
+    <description>Дорога | yes | Китаєнко, 3-б</description>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>36.1665943,49.9520279</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>К-150</name>
+    <description>Дорога | - | Клавдії Шульженко, 26</description>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>36.1583267,49.9520528</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Т-150</name>
+    <description>Тротуар | no | Китаєнко, 3-а</description>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>36.1674751,49.9523292</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Т-150</name>
+    <description>Дорога | - | Новомосковська, 6</description>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>36.1561449,49.9525788</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Т-150</name>
+    <description>Дорога | yes | Китаєнко, 1</description>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>36.1673093,49.9527836</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>К-300</name>
+    <description>Тротуар | - | Клавдії Шульженко, 10</description>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>36.1593809,49.9530966</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Т-150</name>
+    <description>Газон | yes | в`їзд Станційний, 3/4</description>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>36.166264,49.9551823</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Т-150</name>
+    <description>Тротуар вход в Магазин | yes | в`їзд Станційний, 3/3</description>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>36.1654718,49.9552653</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Т-150</name>
+    <description>Дорога | yes | в`їзд Станційний, 3/2</description>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>36.1644062,49.9553972</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Т-150</name>
+    <description>Дорога | no | в`їзд Станційний, 1</description>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>36.1603616,49.9555536</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Т-200</name>
+    <description>Дорога | yes | Костянтина Калініна, 30</description>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>36.1404083,49.9557091</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Т-200</name>
+    <description>Дорога | yes | Костянтина Калініна, 79</description>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>36.14095,49.955729</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Т-200</name>
+    <description>Дорога | yes | Костянтина Калініна, 34</description>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>36.1388366,49.9558817</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Т-200</name>
+    <description>Дорога | yes | Костянтина Калініна, 36</description>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>36.1386138,49.9559403</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Т-200</name>
+    <description>Дорога | yes | Костянтина Калініна, 38</description>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>36.1393807,49.9568815</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Т-200</name>
+    <description>Газон | no | П`ятисотницька, 2</description>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>36.1645473,49.959636</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Т-200</name>
+    <description>Газон | yes | П`ятисотницька, 5</description>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>36.1638741,49.9598233</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Т-300</name>
+    <description>Газон | no | П`ятисотницька, 5/2</description>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>36.1635551,49.9601489</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Т-150</name>
+    <description>Газон | no | П`ятисотницька, 9</description>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>36.1626364,49.960302</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Т-150</name>
+    <description>Територія В/ч | yes | П`ятисотницька, 19</description>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>36.1591442,49.9609905</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Т-150</name>
+    <description>Тротуар | yes | П`ятисотницька, 19</description>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>36.1602528,49.9610915</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>К-200</name>
+    <description>Тротуар | yes | Григорывське шосе, 88</description>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>36.1717917,49.9611908</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Т-150</name>
+    <description>Обочина | yes | П`ятисотницька, 26</description>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>36.159253,49.9615506</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Т-150</name>
+    <description>Територія автодору | yes | провулок Метизний, 14</description>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>36.1635203,49.9617183</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Т-100</name>
+    <description>Газон біля колонки | yes | провулок Григорівький, 1</description>
+    <styleUrl>#placemark-blue</styleUrl>
+    <Point><coordinates>36.1583412,49.961756</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Т-150</name>
+    <description>Головний вхыд в АТП | yes | провулок Метизний, 5</description>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>36.1668259,49.9618063</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Т-400</name>
+    <description>Запасні ворота АТП | yes | провулок Метизний, 5</description>
+    <styleUrl>#placemark-orange</styleUrl>
+    <Point><coordinates>36.1665272,49.9618616</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Т-150</name>
+    <description>Тротуар | yes | провулок Метизний, 13</description>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>36.1648719,49.9619658</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Т-100</name>
+    <description>Газон за газогоном | yes | Старо-Григорівська, 24</description>
+    <styleUrl>#placemark-blue</styleUrl>
+    <Point><coordinates>36.1556077,49.9623348</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Т-300</name>
+    <description>Тротуар | yes | Цементна, 6</description>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>36.1616126,49.9627964</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>К-200</name>
+    <description>Тротуар | no | провулок Метизний, 88</description>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>36.1706629,49.9633009</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Т-300</name>
+    <description>Територія Харківгаз Ключ у чергового Хлібзаводу | yes | Коростельська, 34</description>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>36.1560899,49.9639801</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>К-150</name>
+    <description>Тротуар | no | провулок Метизний, 86</description>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>36.1702883,49.9642648</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Т-300</name>
+    <description>Дорога | yes | Коростельська, 24</description>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>36.1547788,49.9653998</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Т-300</name>
+    <description>Газон | yes | Коростельська, 21</description>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>36.1537006,49.9660575</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Т-300</name>
+    <description>Тротуар | yes | Цементна, 2</description>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>36.1653383,49.9674527</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>К-150</name>
+    <description>Тротуар | - | Чувашська, 6</description>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>36.1585583,49.9691029</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>К-150</name>
+    <description>Тротуар | - | Чувашська, 2</description>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>36.1613297,49.972585</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>К-150</name>
+    <description>Тротуар | - | Чувашська, 6</description>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>36.1613044,49.9732459</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>К-200</name>
+    <description>Тротуар | - | Полтавський шлях, 193</description>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>36.166126,49.9756542</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>К-200</name>
+    <description>Тротуар | - | Полтавський шлях, 177-а</description>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>36.168404,49.9767065</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>К-200</name>
+    <description>Тротуар | - | Полтавський шлях, 177-а</description>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>36.1690747,49.9769832</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>К-200</name>
+    <description>Тротуар | - | Полтавський шлях, 177-а</description>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>36.1697201,49.9772762</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>К-200</name>
+    <description>Тротуар | - | Полтавський шлях, 177</description>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>36.1705351,49.9776277</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>К-200</name>
+    <description>Газон | - | Полтавський шлях, 173</description>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>36.174322,49.9793832</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>К-200</name>
+    <description>Газон | - | Полтавський шлях, 171</description>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>36.1747947,49.9795984</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>К-200</name>
+    <description>Газон | - | Полтавський шлях, 169</description>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>36.175945,49.9801471</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>К-200</name>
+    <description>Газон | - | Полтавський шлях, 167</description>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>36.1768234,49.9805856</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>К-200</name>
+    <description>Газон | - | Полтавський шлях, 155</description>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>36.1788437,49.9812015</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>К-200</name>
+    <description>Газон | - | Полтавський шлях, 155</description>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>36.179697,49.9814813</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>К-200</name>
+    <description>Газон | - | Полтавський шлях, 155</description>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>36.1811401,49.9819641</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>К-250</name>
+    <description>Тротуар | - | Полтавський шлях, 137</description>
+    <styleUrl>#placemark-brown</styleUrl>
+    <Point><coordinates>36.1850909,49.9832457</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>К-150</name>
+    <description>Тротуар | - | Полтавський шлях, 123</description>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>36.1886776,49.9843217</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>К-200</name>
+    <description>Газон | - | Провулок Проїжджий, 8</description>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>36.194858,49.9848612</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>К-200</name>
+    <description>Парковка Укрсиббанк | yes | проспект Любові Малої, 93</description>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>36.1730564,49.9598221</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>К-200</name>
+    <description>Проїжджа частина | yes | проспект Любові Малої, 87</description>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>36.1835947,49.9667387</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>К-200</name>
+    <description>Газон | yes | проспект Любові Малої, 85</description>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>36.183933,49.966984</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>К-150</name>
+    <description>Газон | yes | проспект Любові Малої, 73</description>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>36.1850679,49.9677417</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>К-150</name>
+    <description>Проїжджа частина | yes | провулок Ржевський, 18</description>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>36.1845112,49.9681551</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>К-150</name>
+    <description>Парковка | yes | Рабкорівська, 28</description>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>36.1803685,49.9685873</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>К-150</name>
+    <description>Газон | yes | проспект Любові Малої, 63</description>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>36.1864211,49.9685923</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>К-150</name>
+    <description>Проїжджа частина | yes | Рабкорівська, 22</description>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>36.1811528,49.9691076</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>К-150</name>
+    <description>Газон | yes | проспект Любові Малої, 55</description>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>36.187476,49.9692708</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>К-150</name>
+    <description>Тротуар | yes | Рабкорівська, 18</description>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>36.1818663,49.9696734</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>К-150</name>
+    <description>Газон | yes | проспект Любові Малої, 51</description>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>36.1886171,49.969982</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>К-150</name>
+    <description>Електро подстанция | yes | проспект Любові Малої, 10-а</description>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>36.1863581,49.9699839</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>К-150</name>
+    <description>Парковка | yes | Рабкорівська, 12</description>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>36.1828381,49.9701639</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>К-200</name>
+    <description>Газон | yes | проспект Любові Малої, 51</description>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>36.1891153,49.9703064</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>К-150</name>
+    <description>Газон | yes | Рабкорівська, 10</description>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>36.1830257,49.9703736</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Т-200</name>
+    <description>Тротуар | yes | Бульвар Профспілковий, 54</description>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>36.1850925,49.9703855</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>К-200</name>
+    <description>Газон | yes | проспект Любові Малої, 47</description>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>36.1900625,49.9709433</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>К-200</name>
+    <description>Пішохідний перехід | yes | проспект Любові Малої, 47</description>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>36.1906592,49.9713508</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>К-200</name>
+    <description>РУ МВС | yes | проспект Любові Малої, 45</description>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>36.1913127,49.9718206</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>К-200</name>
+    <description>АЗС "SHELL" | yes | проспект Любові Малої, Сквер ( Любові Малої)</description>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>36.189329,49.9720412</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>К-150</name>
+    <description>Газон | yes | Стефенсона, 18</description>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>36.1828205,49.9721292</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>К-200</name>
+    <description>Проїжджа частина | yes | проспект Любові Малої, 39</description>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>36.1921016,49.9723121</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>К-150</name>
+    <description>Газон | yes | Стефенсона, 12</description>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>36.1818201,49.9727913</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Т-150</name>
+    <description>Пішохідний перехід | yes | Симферопільська, 65</description>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>36.1919909,49.9763907</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>К-150</name>
+    <description>Проїжджа частина | yes | Степана Разіна, 9</description>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>36.1758259,49.9772837</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>К-100</name>
+    <description>Територія школи | yes | провулок Рабкорівський, 5</description>
+    <styleUrl>#placemark-blue</styleUrl>
+    <Point><coordinates>36.1834563,49.9772837</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>К-150</name>
+    <description>Дигма | yes | Титаренківський, 2</description>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>36.1941476,49.9797131</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>К-150</name>
+    <description>Газон | no | Грушевського, 37</description>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>36.1795632,49.9680438</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>К-150</name>
+    <description>Газон | no | Грушевського, 35</description>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>36.1784919,49.9687059</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Т-200</name>
+    <description>Проїжджа частина | yes | Лиса, 31</description>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>36.1795448,49.9693806</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Т-200</name>
+    <description>Газон | yes | Менделєєва, 21</description>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>36.1811675,49.9704107</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Т-150</name>
+    <description>Газон | yes | Воложанівська, 66</description>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>36.1792429,49.9704623</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Т-200</name>
+    <description>Газон | yes | Добролюбова, 35-а</description>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>36.1761353,49.9705712</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Т-100</name>
+    <description>Газон | yes | Бакуніна, 33</description>
+    <styleUrl>#placemark-blue</styleUrl>
+    <Point><coordinates>36.1864005,49.9714181</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Т-150</name>
+    <description>Газон | yes | Воложанівська, 57</description>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>36.1809128,49.9715802</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Т-100</name>
+    <description>Газон | yes | Бакуніна, 28</description>
+    <styleUrl>#placemark-blue</styleUrl>
+    <Point><coordinates>36.1846623,49.9723402</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>К-200</name>
+    <description>Газон | yes | Григорівське шосе, 85</description>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>36.1730869,49.9726745</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>К-200</name>
+    <description>Газон | yes | Григорівське шосе, 83-б</description>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>36.1731499,49.9728704</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>К-150</name>
+    <description>Тротуар | yes | Григорівське шосе, 86</description>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>36.1742265,49.9736202</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>К-200</name>
+    <description>Газон | yes | Григорівське шосе, 81</description>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>36.1747936,49.9736979</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Т-100</name>
+    <description>Газон | no | Бакуніна, 1/59</description>
+    <styleUrl>#placemark-blue</styleUrl>
+    <Point><coordinates>36.1822467,49.974012</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>К-150</name>
+    <description>Газон | yes | Лобачевського, 11</description>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>36.188631,49.974104</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>К-125</name>
+    <description>Газон | yes | Григорівське шосе, 84</description>
+    <styleUrl>#placemark-purple</styleUrl>
+    <Point><coordinates>36.1752137,49.9742552</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>К-200</name>
+    <description>Газон | yes | Григорівське шосе, 81</description>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>36.1759752,49.9744173</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Т-200</name>
+    <description>Газон | yes | Комбайнівська, 13</description>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>36.1779077,49.9744949</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>К-150</name>
+    <description>Газон | yes | Івана Минайленко, 61</description>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>36.1900647,49.9746925</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Т-200</name>
+    <description>Вет. лікарня "Дружочок" | yes | Комбайнівська, 4</description>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>36.1764478,49.9748327</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>К-150</name>
+    <description>Газон | yes | Григорівське шосе, 76</description>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>36.1764531,49.9750454</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>К-300</name>
+    <description>Газон 5ти поверхівка | yes | Григорівська, 86-а</description>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>36.1964385,49.975655</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>К-150</name>
+    <description>Газон | yes | Григорівське шосе, 64</description>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>36.1775847,49.9757749</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>К-200</name>
+    <description>Газон | yes | Григорівське шосе, 62</description>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>36.1778289,49.9757935</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Т-150</name>
+    <description>Газон | yes | Колгоспна, 1</description>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>36.1796879,49.9758763</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Т-150</name>
+    <description>Газон | yes | Колгоспна, 5</description>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>36.1807119,49.9759033</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>К-150</name>
+    <description>Газон | no | Цехівська, 9</description>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>36.1909193,49.9761177</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>К-300</name>
+    <description>Газон 5ти поверхівка | yes | Григорівська, 86-б</description>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>36.1964963,49.9764521</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>К-300</name>
+    <description>Газон | no | Козюлінська, 28</description>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>36.1861918,49.976805</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>К-150</name>
+    <description>Газон ПТУ | yes | Григорівське шосе, 56</description>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>36.1795199,49.9771106</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>К-300</name>
+    <description>Газон | yes | Григорівське шосе, 69</description>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>36.1803312,49.9774179</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>К-100</name>
+    <description>Газон | yes | Гребенюківська, 47</description>
+    <styleUrl>#placemark-blue</styleUrl>
+    <Point><coordinates>36.1949051,49.9774753</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>К-200</name>
+    <description>Газон | yes | Григорівське шосе, 69</description>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>36.1806699,49.9776526</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>К-300</name>
+    <description>Проїжджа частина | yes | Григорівське шосе, 54</description>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>36.1807119,49.9777962</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>К-200</name>
+    <description>Газон | yes | Федорівська, 48</description>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>36.192563,49.9778282</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>К-300</name>
+    <description>Газон | yes | Григорівська, 72</description>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>36.1966538,49.9780157</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Т-300</name>
+    <description>Газон | yes | Козюлінська, 20</description>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>36.1881243,49.9780748</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Т-100</name>
+    <description>Тротуар | yes | Корабельна, 22</description>
+    <styleUrl>#placemark-blue</styleUrl>
+    <Point><coordinates>36.1773878,49.9782394</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>К-150</name>
+    <description>Газон | yes | Івана Минайленко, 4</description>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>36.1841595,49.9784614</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Т-150</name>
+    <description>Газон | yes | Лейтенанта Шмідта, 5</description>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>36.1748317,49.9787341</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>К-150</name>
+    <description>Газон | yes | Титаренківський, 20</description>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>36.1920825,49.9792128</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>К-150</name>
+    <description>Газон | yes | Титаренківський, 18</description>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>36.1921088,49.9798072</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>К-200</name>
+    <description>Газон | yes | Камська, 1</description>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>36.1827967,49.9802428</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>К-100</name>
+    <description>Газон | yes | Єленінська, 51</description>
+    <styleUrl>#placemark-blue</styleUrl>
+    <Point><coordinates>36.1970832,49.9805163</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>К-300</name>
+    <description>Газон | yes | Клапцова, 1</description>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>36.190813,49.9805214</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>К-300</name>
+    <description>Газон | yes | Лиса, 41</description>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>36.1936934,49.9807063</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>К-300</name>
+    <description>Газон | yes | Григорівська, 47</description>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>36.1950102,49.9808658</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>К-300</name>
+    <description>Газон | yes | Клапцова, 3</description>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>36.1916059,49.9808861</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>К-300</name>
+    <description>Газон | yes | Клапцова, 5</description>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>36.1900725,49.9810246</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>К-100</name>
+    <description>Газон | yes | Єленінська, 43</description>
+    <styleUrl>#placemark-blue</styleUrl>
+    <Point><coordinates>36.1965633,49.9810972</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Т-300</name>
+    <description>Вход в Общежитие | yes | Клапцова, 2</description>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>36.1914274,49.9813859</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>К-300</name>
+    <description>Газон | yes | Лиса, 29</description>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>36.1931892,49.9814391</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>К-300</name>
+    <description>Газон | yes | Григорівське шосе, 53</description>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>36.1874757,49.9817202</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>К-100</name>
+    <description>Газон | yes | Єленінська, 37</description>
+    <styleUrl>#placemark-blue</styleUrl>
+    <Point><coordinates>36.195744,49.9818704</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>К-300</name>
+    <description>Газон | yes | Григорівське шосе, 49-а</description>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>36.1875571,49.9821558</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>К-100</name>
+    <description>Газон | yes | Єленінська, 33</description>
+    <styleUrl>#placemark-blue</styleUrl>
+    <Point><coordinates>36.1953029,49.9823027</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>К-300</name>
+    <description>Проїжджа частина | yes | Григорівське шосе, 47</description>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>36.1887978,49.9823263</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Т-150</name>
+    <description>Газон | yes | Лиса, 20</description>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>36.1924094,49.9823322</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>К-300</name>
+    <description>Газон | yes | Клапцова, 11</description>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>36.1895632,49.9826353</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>К-300</name>
+    <description>Газон | yes | Клапцова, 11</description>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>36.1904454,49.9826556</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>К-100</name>
+    <description>Газон | yes | Єленінська, 25</description>
+    <styleUrl>#placemark-blue</styleUrl>
+    <Point><coordinates>36.1946307,49.9830523</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>К-300</name>
+    <description>Газон | yes | Клапцова, 11</description>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>36.1898467,49.9832566</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>К-100</name>
+    <description>Газон | yes | Єленінська, 12</description>
+    <styleUrl>#placemark-blue</styleUrl>
+    <Point><coordinates>36.1933337,49.9844266</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>К-200</name>
+    <description>Газон | yes | Писарєва, 27</description>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>36.1777908,49.972113</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>К-200</name>
+    <description>Газон | yes | Писарєва, 19</description>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>36.1762942,49.9721232</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>К-200</name>
+    <description>Проїжджа частина | no | проспект Любові Малої, 33</description>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>36.1932168,49.9723562</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Т-150</name>
+    <description>Газон | yes | провулок Петрашевського, 13-а</description>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>36.1796603,49.9724508</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>К-200</name>
+    <description>Тротуар | no | Дудинської, 61</description>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>36.1885641,49.9728983</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>К-150</name>
+    <description>Газон | yes | провулок Петрашевського, 20</description>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>36.179403,49.973231</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>К-200</name>
+    <description>Газон | yes | Дудинської, 32</description>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>36.1870202,49.9736143</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>К-200</name>
+    <description>Газон | no | Дудинської, 6</description>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>36.185513,49.9738811</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>К-250</name>
+    <description>Газон | no | Посівкомівська, 1</description>
+    <styleUrl>#placemark-brown</styleUrl>
+    <Point><coordinates>36.1763835,49.9740247</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>К-250</name>
+    <description>Газон | yes | Посівкомівська, 13</description>
+    <styleUrl>#placemark-brown</styleUrl>
+    <Point><coordinates>36.1810572,49.9741429</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>К-250</name>
+    <description>Газон | yes | Посівкомівська, 5</description>
+    <styleUrl>#placemark-brown</styleUrl>
+    <Point><coordinates>36.1796446,49.9741665</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Т-150</name>
+    <description>Газон | yes | провулок Петрашевського, 12</description>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>36.179445,49.974359</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>К-200</name>
+    <description>- | yes | проспект Любові Малої, 2</description>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>36.1963913,49.9745515</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>К-200</name>
+    <description>Тротуар | no | Дудинської, 37</description>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>36.1854763,49.97482</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Т-150</name>
+    <description>Газон | yes | провулок Петрашевського, 5</description>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>36.1796341,49.9750649</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>К-150</name>
+    <description>Газон | yes | провулок Петрашевського, 6</description>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>36.1794503,49.9752135</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>К-200</name>
+    <description>Газон | yes | Дудинської, 16-а</description>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>36.1841161,49.9754178</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>К-150</name>
+    <description>Газон | yes | Переможців, 19</description>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>36.1754382,49.9756204</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>К-200</name>
+    <description>Тротуар | no | Дудинської, 21</description>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>36.1834597,49.9760662</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>К-150</name>
+    <description>Дорога | yes | Переможців, 13</description>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>36.1742724,49.9762824</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>К-200</name>
+    <description>Газон | yes | Дудинської, 12</description>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>36.1825355,49.9763803</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>К-200</name>
+    <description>Газон | yes | Дудинської, 12</description>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>36.1829241,49.9764242</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Т-150</name>
+    <description>Газон | no | Переможців, 9</description>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>36.1732221,49.9770068</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>К-200</name>
+    <description>Тротуар | no | Дудинської, 3</description>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>36.1817714,49.9771081</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>К-200</name>
+    <description>Тротуар | no | Дудинської, 6</description>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>36.1810283,49.9774036</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Т-150</name>
+    <description>Газон | yes | Провулок Переможців, 10</description>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>36.1743879,49.9777818</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Т-150</name>
+    <description>Газон | yes | Провулок Переможців, 2</description>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>36.1752019,49.9783255</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>К-150</name>
+    <description>Тротуар | yes | Пермська, 15</description>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>36.1887164,49.9793724</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>К-200</name>
+    <description>Газон | no | Дудинської, 6</description>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>36.1771003,49.979396</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Т-200</name>
+    <description>Тротуар | no | провулок Пермський, 7</description>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>36.1846203,49.9823913</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>К-200</name>
+    <description>Тротуар | yes | Москалівська, 92</description>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>36.2230749,49.9722026</coordinates></Point>
+  </Placemark>
+</Document>
+</kml>
